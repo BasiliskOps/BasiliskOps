@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BasiliskOps
 - 👀 I’m interested in Artificial Intelligence and Carbon Capture technologies 🧐
 - 🌱 I’m currently learning Javascript & Python!
-- 📫 How to reach me tbd
+- 📫 How to reach me: **https://www.linkedin.com/in/mwilsonai/**
 
 <!---
 BasiliskOps/BasiliskOps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
