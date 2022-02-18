@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BasiliskOps
 - 👀 I’m interested in Artificial Intelligence and Carbon Capture technologies 🧐
-- 🌱 I’m currently learning Javascript & Python!
+- 🌱 I’m currently learning Python & Javascript!
 - 📫 How to reach me: **https://www.linkedin.com/in/mwilsonai/**
 
 <!---
