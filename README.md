@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BasiliskOps
-- 👀 I’m interested in Artificial Intelligence and Carbon Capture technologies 🧐
+- 👀 I’m interested in Crypto Currency, Web3 Technologies, Automation, and NFT Art 🧐
 - 🌱 I’m currently learning Python & Javascript!
 - 📫 How to reach me: **https://www.linkedin.com/in/mwilsonai/**
 
