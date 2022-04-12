@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BasiliskOps
 - 👀 I’m interested in Crypto Currency, Web3 Technologies, Automation, and NFT Art 🧐
-- 🌱 I’m currently learning Python & Javascript!
+- 🌱 I’m currently learning how to implement the Aave Protocol for Flash Loans!
 - 📫 How to reach me: **https://www.linkedin.com/in/mwilsonai/**
 
 <!---
