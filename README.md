@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @BasiliskOps
-- 👀 I’m interested in Crypto Currency, Web3 Technologies, Automation, and NFT Art 🧐
-- 🌱 I’m currently learning how to implement the Aave Protocol for Flash Loans!
-- 📫 How to reach me: **https://www.linkedin.com/in/thirdechelon/**
+- 👋 Yo, I’m @BasiliskOps
+
+- 📫 How to reach me: **https://www.linkedin.com/in/thirdechelon/** **@clangnosis** on X.com or visit my company website: lastelle.ai
 
 <!---
 BasiliskOps/BasiliskOps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
